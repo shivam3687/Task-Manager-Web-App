@@ -1,0 +1,3 @@
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Using MongoDB URI: mongodb://127.0.0.1:27017/team-task-manager
+Attempting to start local mongod using dbpath: D:\Team Task Manager\backend\data\db
